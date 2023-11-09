@@ -4,3 +4,9 @@ body{
  .dropdown-menu{
     background-color: #ffec5f;
  }
+ .carousel {
+           background-color: black;
+ }
+ .carousel-item img{
+    margin: auto;
+ }
